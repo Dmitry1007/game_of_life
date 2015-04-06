@@ -1,5 +1,6 @@
 class Grid
   attr_accessor :grid
+  
   def initialize
     @grid = ["[0,0,0]\n[0,0,0]\n[0,0,0]"]
   end
